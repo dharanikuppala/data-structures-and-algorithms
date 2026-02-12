@@ -4,8 +4,7 @@ Daily DSA practice - 2 problems per day with explanations and complexity analysi
 ### Problems
 
 
-
-01. Arrays
+Arrays
 
 1. Concatenation of Array  
     [Problem Link](https://leetcode.com/problems/concatenation-of-array/)  
