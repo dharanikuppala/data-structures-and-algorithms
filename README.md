@@ -8,15 +8,22 @@ Arrays
 
 1. Concatenation of Array  
     [Problem Link](https://leetcode.com/problems/concatenation-of-array/)   ,  [Java Solution](01-arrays/01_concatenation_of_array.java)  
-    Pattern: Direct Index Mapping  
-
+    Pattern: Direct Index Mapping    
 2. Build Array from Permutation  
     [Problem Link](https://leetcode.com/problems/build-array-from-permutation/)  ,  [Java Solution](01-arrays/02_build_array_from_permutation.java)  
-    Pattern: Direct Index Mapping  
-
+    Pattern: Direct Index Mapping    
 3. Two Sum II - Input Array Is Sorted  
     [Problem Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  ,  [Java Solution](01-arrays/03_two_sum_ii.java)  
     Pattern: Two Pointer  
+4. Richest Customer Wealth   
+   [Problem Link](https://leetcode.com/problems/richest-customer-wealth/)  , [Java Solution](01-arrays/04_richest_customer_wealth.java)  
+   Pattern: Matrix Traversal
+5. Shuffle the Array   
+   [Problem Link](https://leetcode.com/problems/shuffle-the-array/)  , [Java Solution](01-arrays/05_shuffle_the_array.java)    
+   Pattern: Direct Index Mapping
+6. Find the Duplicate Number  
+   [Problem Link](https://leetcode.com/problems/find-the-duplicate-number/)  , [Java Solution](01-arrays/06_find_duplicate.java)    
+   Pattern: Floyd's Cycle Detection    
 
 ---
 
@@ -31,7 +38,7 @@ Arrays
 
 ## 📈 Stats
 
-- Total Problems Solved: 4  
-- Easy: 3  
-- Medium: 1 
+- Total Problems Solved: 7  
+- Easy: 5  
+- Medium: 2 
 - Hard: 0 
