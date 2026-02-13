@@ -36,18 +36,14 @@ Arrays
 
 ---
 
- Sorting
-
+ Sorting  
+> Easy  
 1. Missing Number  
    [Problem Link](https://leetcode.com/problems/missing-number/)
    [Java Solution](02-sorting/01_missing_number.java)  
-    Pattern: Cyclic Sort  
+    Pattern: Cyclic Sort
 
-
-
-
-## 📈 Stats
-
+ ***📈 STATS  
 - Total Problems Solved: 7  
 - Easy: 5  
 - Medium: 2 
