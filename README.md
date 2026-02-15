@@ -22,7 +22,11 @@ Arrays
 4. Shuffle the Array   
    [Problem Link](https://leetcode.com/problems/shuffle-the-array/)
    [Java Solution](01-arrays/05_shuffle_the_array.java)    
-   Pattern: Direct Index Mapping
+   Pattern: Direct Index Mapping  
+5. Find Numbers with Even Number of Digits  
+   [Problem Link](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
+   [Java Solution](01-arrays/09_find_numbers_with_even_digits.java)  
+   Pattern: Digit Counting 
    
 > Medium
 1. Two Sum II - Input Array Is Sorted  
