@@ -33,6 +33,10 @@ Arrays
    [Problem Link](https://leetcode.com/problems/find-the-duplicate-number/)
    [Java Solution](01-arrays/06_find_duplicate.java)    
    Pattern: Floyd's Cycle Detection
+3. Find All Duplicates in an Array  
+   [Problem Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+   [Java Solution](01-arrays/07_find_all_duplicates.java)  
+   Pattern: Cyclic Sort  
 
 ---
 
@@ -44,7 +48,7 @@ Arrays
     Pattern: Cyclic Sort
 
  ***📈 STATS  
-- Total Problems Solved: 7  
+- Total Problems Solved: 8    
 - Easy: 5  
-- Medium: 2 
+- Medium: 3   
 - Hard: 0 
