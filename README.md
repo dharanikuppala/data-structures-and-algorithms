@@ -36,7 +36,13 @@ Arrays
 3. Find All Duplicates in an Array  
    [Problem Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
    [Java Solution](01-arrays/07_find_all_duplicates.java)  
-   Pattern: Cyclic Sort  
+   Pattern: Cyclic Sort
+
+> Hard
+1. First Missing Positive  
+   [Problem Link](https://leetcode.com/problems/first-missing-positive/)
+   [Java Solution](01-arrays/08_first_missing_positive.java)  
+   Pattern: Cyclic Sort 
 
 ---
 
@@ -48,7 +54,7 @@ Arrays
     Pattern: Cyclic Sort
 
  ***📈 STATS  
-- Total Problems Solved: 8    
+- Total Problems Solved: 9      
 - Easy: 5  
 - Medium: 3   
-- Hard: 0 
+- Hard: 1 
