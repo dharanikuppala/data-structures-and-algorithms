@@ -58,7 +58,7 @@ Arrays
     Pattern: Cyclic Sort
 
  ***📈 STATS  
-- Total Problems Solved: 9      
-- Easy: 5  
+- Total Problems Solved: 10        
+- Easy: 6  
 - Medium: 3   
 - Hard: 1 
