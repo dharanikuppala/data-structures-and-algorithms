@@ -26,7 +26,11 @@ Arrays
 5. Find Numbers with Even Number of Digits  
    [Problem Link](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
    [Java Solution](01-arrays/09_find_numbers_with_even_digits.java)  
-   Pattern: Digit Counting 
+   Pattern: Digit Counting
+6. Move Zeroes    
+   [Problem Link](https://leetcode.com/problems/move-zeroes/)
+   [Java Solution](01-arrays/11_move_zeroes.java)  
+   Pattern: Two Pointer 
    
 > Medium
 1. Two Sum II - Input Array Is Sorted  
@@ -62,7 +66,7 @@ Arrays
     Pattern: Cyclic Sort
 
  ***📈 STATS  
-- Total Problems Solved: 11        
-- Easy: 6  
+- Total Problems Solved: 12        
+- Easy: 7  
 - Medium: 4   
 - Hard: 1 
