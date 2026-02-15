@@ -41,6 +41,10 @@ Arrays
    [Problem Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
    [Java Solution](01-arrays/07_find_all_duplicates.java)  
    Pattern: Cyclic Sort
+4. Search a 2D Matrix II   
+   [Problem Link](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+   [Java Solution](01-arrays/10_search_2d_matrix_ii.java)  
+   Pattern: Staircase Search      
 
 > Hard
 1. First Missing Positive  
@@ -58,7 +62,7 @@ Arrays
     Pattern: Cyclic Sort
 
  ***📈 STATS  
-- Total Problems Solved: 10        
+- Total Problems Solved: 11        
 - Easy: 6  
-- Medium: 3   
+- Medium: 4   
 - Hard: 1 
