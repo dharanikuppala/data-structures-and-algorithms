@@ -6,7 +6,7 @@ Daily DSA practice - Problems everyday with explanations and complexity analysis
 
 Arrays
 
-> Easy
+### Easy
 
 1. Concatenation of Array- [Problem Link](https://leetcode.com/problems/concatenation-of-array/) , [Java Solution](01-arrays/01_concatenation_of_array.java) , Pattern: Direct Index Mapping    
 2. Build Array from Permutation - [Problem Link](https://leetcode.com/problems/build-array-from-permutation/) , [Java Solution](01-arrays/02_build_array_from_permutation.java) , Pattern: Direct Index Mapping    
@@ -18,7 +18,7 @@ Arrays
    [Java Solution](01-arrays/11_move_zeroes.java)  
    Pattern: Two Pointer 
    
-> Medium
+### Medium
 1. Two Sum II - Input Array Is Sorted  
     [Problem Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
     [Java Solution](01-arrays/03_two_sum_ii.java)  
@@ -40,7 +40,7 @@ Arrays
    [Java Solution](01-arrays/12_search_matrix_binary.java)  
    Pattern: Binary Search       
 
-> Hard
+### Hard
 1. First Missing Positive  
    [Problem Link](https://leetcode.com/problems/first-missing-positive/)
    [Java Solution](01-arrays/08_first_missing_positive.java)  
@@ -49,22 +49,16 @@ Arrays
 ---
 Strings
 
-> Easy
-1. Valid Palindrome   
-   [Problem Link](https://leetcode.com/problems/valid-palindrome/)
-   [Java Solution](02-strings/01_valid_palindrome.java)  
-   Pattern: Two Pointer (String)
+### Easy
+1. Valid Palindrome - [Problem Link](https://leetcode.com/problems/valid-palindrome/) , [Java Solution](02-strings/01_valid_palindrome.java) , Pattern: Two Pointer (String)
 
 ---
  Sorting  
  
-> Easy  
-1. Missing Number  
-   [Problem Link](https://leetcode.com/problems/missing-number/)
-   [Java Solution](02-sorting/01_missing_number.java)  
-    Pattern: Cyclic Sort
+### Easy  
+1. Missing Number - [Problem Link](https://leetcode.com/problems/missing-number/) , [Java Solution](02-sorting/01_missing_number.java) , Pattern: Cyclic Sort
 
- ***📈 STATS  
+ *** STATS ***
 - Total Problems Solved: 14        
 - Easy: 8  
 - Medium: 5   
