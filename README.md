@@ -7,18 +7,12 @@ Daily DSA practice - Problems everyday with explanations and complexity analysis
 Arrays
 
 > Easy  
-1. Concatenation of Array  
-    [Problem Link](https://leetcode.com/problems/concatenation-of-array/)
-    [Java Solution](01-arrays/01_concatenation_of_array.java)  
-    Pattern: Direct Index Mapping    
-2. Build Array from Permutation  
-    [Problem Link](https://leetcode.com/problems/build-array-from-permutation/)
-    [Java Solution](01-arrays/02_build_array_from_permutation.java)  
-    Pattern: Direct Index Mapping    
-3. Richest Customer Wealth   
-   [Problem Link](https://leetcode.com/problems/richest-customer-wealth/)
-   [Java Solution](01-arrays/04_richest_customer_wealth.java)  
-   Pattern: Matrix Traversal
+1. Concatenation of Array - [Problem Link](https://leetcode.com/problems/concatenation-of-array/)  
+    [Java Solution](01-arrays/01_concatenation_of_array.java) , Pattern: Direct Index Mapping    
+2. Build Array from Permutation - [Problem Link](https://leetcode.com/problems/build-array-from-permutation/)  
+    [Java Solution](01-arrays/02_build_array_from_permutation.java) , Pattern: Direct Index Mapping    
+3. Richest Customer Wealth - [Problem Link](https://leetcode.com/problems/richest-customer-wealth/)  
+   [Java Solution](01-arrays/04_richest_customer_wealth.java) , Pattern: Matrix Traversal
 4. Shuffle the Array   
    [Problem Link](https://leetcode.com/problems/shuffle-the-array/)
    [Java Solution](01-arrays/05_shuffle_the_array.java)    
