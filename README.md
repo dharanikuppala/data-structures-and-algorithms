@@ -75,7 +75,7 @@ Strings
     Pattern: Cyclic Sort
 
  ***📈 STATS  
-- Total Problems Solved: 12        
-- Easy: 7  
+- Total Problems Solved: 13        
+- Easy: 8  
 - Medium: 4   
 - Hard: 1 
