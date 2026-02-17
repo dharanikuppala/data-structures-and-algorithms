@@ -79,7 +79,7 @@ Strings
     Pattern: Cyclic Sort
 
  ***📈 STATS  
-- Total Problems Solved: 13        
+- Total Problems Solved: 14        
 - Easy: 8  
-- Medium: 4   
+- Medium: 5   
 - Hard: 1 
