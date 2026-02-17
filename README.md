@@ -48,7 +48,11 @@ Arrays
 4. Search a 2D Matrix II   
    [Problem Link](https://leetcode.com/problems/search-a-2d-matrix-ii/)
    [Java Solution](01-arrays/10_search_2d_matrix_ii.java)  
-   Pattern: Staircase Search      
+   Pattern: Staircase Search
+5. Search a 2D Matrix   
+   [Problem Link](https://leetcode.com/problems/search-a-2d-matrix/)
+   [Java Solution](01-arrays/12_search_matrix_binary.java)  
+   Pattern: Binary Search       
 
 > Hard
 1. First Missing Positive  
