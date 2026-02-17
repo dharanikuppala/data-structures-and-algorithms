@@ -6,20 +6,13 @@ Daily DSA practice - Problems everyday with explanations and complexity analysis
 
 Arrays
 
-> Easy  
+> Easy
+
 1. Concatenation of Array- [Problem Link](https://leetcode.com/problems/concatenation-of-array/) , [Java Solution](01-arrays/01_concatenation_of_array.java) , Pattern: Direct Index Mapping    
-2. Build Array from Permutation - [Problem Link](https://leetcode.com/problems/build-array-from-permutation/)  
-    [Java Solution](01-arrays/02_build_array_from_permutation.java) , Pattern: Direct Index Mapping    
-3. Richest Customer Wealth - [Problem Link](https://leetcode.com/problems/richest-customer-wealth/)  
-   [Java Solution](01-arrays/04_richest_customer_wealth.java) , Pattern: Matrix Traversal
-4. Shuffle the Array   
-   [Problem Link](https://leetcode.com/problems/shuffle-the-array/)
-   [Java Solution](01-arrays/05_shuffle_the_array.java)    
-   Pattern: Direct Index Mapping  
-5. Find Numbers with Even Number of Digits  
-   [Problem Link](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
-   [Java Solution](01-arrays/09_find_numbers_with_even_digits.java)  
-   Pattern: Digit Counting
+2. Build Array from Permutation - [Problem Link](https://leetcode.com/problems/build-array-from-permutation/) , [Java Solution](01-arrays/02_build_array_from_permutation.java) , Pattern: Direct Index Mapping    
+3. Richest Customer Wealth - [Problem Link](https://leetcode.com/problems/richest-customer-wealth/) , [Java Solution](01-arrays/04_richest_customer_wealth.java) , Pattern: Matrix Traversal
+4. Shuffle the Array - [Problem Link](https://leetcode.com/problems/shuffle-the-array/) , [Java Solution](01-arrays/05_shuffle_the_array.java) , Pattern: Direct Index Mapping  
+5. Find Numbers with Even Number of Digits - [Problem Link](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) , [Java Solution](01-arrays/09_find_numbers_with_even_digits.java) , Pattern: Digit Counting
 6. Move Zeroes    
    [Problem Link](https://leetcode.com/problems/move-zeroes/)
    [Java Solution](01-arrays/11_move_zeroes.java)  
