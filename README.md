@@ -57,8 +57,17 @@ Arrays
    Pattern: Cyclic Sort 
 
 ---
+Strings
 
+> Easy
+1. Valid Palindrome   
+   [Problem Link](https://leetcode.com/problems/valid-palindrome/)
+   [Java Solution](02-strings/01_valid_palindrome.java)  
+   Pattern: Two Pointer (String)
+
+---
  Sorting  
+ 
 > Easy  
 1. Missing Number  
    [Problem Link](https://leetcode.com/problems/missing-number/)
