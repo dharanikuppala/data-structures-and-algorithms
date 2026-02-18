@@ -29,6 +29,11 @@ All solutions are written in Java
 1. First Missing Positive - [Problem Link](https://leetcode.com/problems/first-missing-positive/) , [Solution](01-arrays/08_first_missing_positive.java) , Pattern: Cyclic Sort 
 
 ---
+#### Searching
+
+### Easy 
+1. Find Smallest Letter Greater Than Target - [Problem Link](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) , [Solution](02-searching/01_next_greatest_letter.java) , Pattern: Binary Search (Upper Bound)
+---
 #### Strings
 
 ### Easy
