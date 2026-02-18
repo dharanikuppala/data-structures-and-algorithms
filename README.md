@@ -13,7 +13,8 @@ Daily DSA practice - Problems everyday with explanations and complexity analysis
 3. Richest Customer Wealth - [Problem Link](https://leetcode.com/problems/richest-customer-wealth/) , [Java Solution](01-arrays/04_richest_customer_wealth.java) , Pattern: Matrix Traversal
 4. Shuffle the Array - [Problem Link](https://leetcode.com/problems/shuffle-the-array/) , [Java Solution](01-arrays/05_shuffle_the_array.java) , Pattern: Direct Index Mapping  
 5. Find Numbers with Even Number of Digits - [Problem Link](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) , [Java Solution](01-arrays/09_find_numbers_with_even_digits.java) , Pattern: Digit Counting
-6. Move Zeroes - [Problem Link](https://leetcode.com/problems/move-zeroes/) , [Java Solution](01-arrays/11_move_zeroes.java) , Pattern: Two Pointer 
+6. Move Zeroes - [Problem Link](https://leetcode.com/problems/move-zeroes/) , [Java Solution](01-arrays/11_move_zeroes.java) , Pattern: Two Pointer
+7. Flipping an Image - [Problem Link](https://leetcode.com/problems/flipping-an-image/) , [Java Solution](01-arrays/13_flip_and_invert_image.java) , Pattern: Two Pointer + Bit Manipulation
    
 ### Medium
 1. Two Sum II - Input Array Is Sorted - [Problem Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) , [Java Solution](01-arrays/03_two_sum_ii.java) , Pattern: Two Pointer
