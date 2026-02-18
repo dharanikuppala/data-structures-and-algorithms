@@ -39,7 +39,7 @@ Daily DSA practice - Problems everyday with explanations and complexity analysis
 1. Missing Number - [Problem Link](https://leetcode.com/problems/missing-number/) , [Java Solution](02-sorting/01_missing_number.java) , Pattern: Cyclic Sort
 
  *** STATS ***
-- Total Problems Solved: 14        
-- Easy: 8  
+- Total Problems Solved: 15        
+- Easy: 9  
 - Medium: 5   
 - Hard: 1 
