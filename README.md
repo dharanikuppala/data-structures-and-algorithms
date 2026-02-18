@@ -40,8 +40,14 @@ All solutions are written in Java
 ### Easy  
 1. Missing Number - [Problem Link](https://leetcode.com/problems/missing-number/) , [Solution](02-sorting/01_missing_number.java) , Pattern: Cyclic Sort
 
+---
+#### Recursion  
+
+### Easy   
+1. Number of Steps to Reduce a Number to Zero - [Problem Link](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) , [Solution](01-arrays/15_number_of_steps.java) , Pattern: Recursion / Bit Manipulation
+
  *** STATS ***
-- Total Problems Solved: 16        
-- Easy: 9  
+- Total Problems Solved: 17        
+- Easy: 10  
 - Medium: 6   
 - Hard: 1 
