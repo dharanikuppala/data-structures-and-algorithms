@@ -21,7 +21,8 @@ Daily DSA practice - Problems everyday with explanations and complexity analysis
 2. Find the Duplicate Number - [Problem Link](https://leetcode.com/problems/find-the-duplicate-number/) , [Java Solution](01-arrays/06_find_duplicate.java) , Pattern: Floyd's Cycle Detection
 3. Find All Duplicates in an Array - [Problem Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/) , [Java Solution](01-arrays/07_find_all_duplicates.java) , Pattern: Cyclic Sort
 4. Search a 2D Matrix II - [Problem Link](https://leetcode.com/problems/search-a-2d-matrix-ii/) , [Java Solution](01-arrays/10_search_2d_matrix_ii.java) , Pattern: Staircase Search
-5. Search a 2D Matrix - [Problem Link](https://leetcode.com/problems/search-a-2d-matrix/) , [Java Solution](01-arrays/12_search_matrix_binary.java) , Pattern: Binary Search       
+5. Search a 2D Matrix - [Problem Link](https://leetcode.com/problems/search-a-2d-matrix/) , [Java Solution](01-arrays/12_search_matrix_binary.java) , Pattern: Binary Search
+6. Count Primes - [Problem Link](https://leetcode.com/problems/count-primes/) , [Java Solution](01-arrays/14_count_primes.java) , Pattern: Sieve of Eratosthenes    
 
 ### Hard
 1. First Missing Positive - [Problem Link](https://leetcode.com/problems/first-missing-positive/) , [Java Solution](01-arrays/08_first_missing_positive.java) , Pattern: Cyclic Sort 
