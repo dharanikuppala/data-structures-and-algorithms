@@ -37,6 +37,9 @@ All solutions are written in Java
 ### Medium 
 1. Find First and Last Position of Element in Sorted Array - [Problem Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) , [Solution](02-searching/02_search_range.java) , Pattern: Binary Search (Lower & Upper Bound)
 2. Search in Rotated Sorted Array - [Problem Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) , [Solution](02-searching/03_search_rotated_array.java) , Pattern: Modified Binary Search
+
+### Hard
+1. Split Array Largest Sum - [Problem Link](https://leetcode.com/problems/split-array-largest-sum/) , [Solution](02-searching/04_split_array_largest_sum.java) , Pattern: Binary Search on Answer
 ---
 #### Strings
 
@@ -56,7 +59,7 @@ All solutions are written in Java
 1. Number of Steps to Reduce a Number to Zero - [Problem Link](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) , [Solution](01-arrays/15_number_of_steps.java) , Pattern: Recursion / Bit Manipulation
 
  *** STATS ***
-- Total Problems Solved: 20        
+- Total Problems Solved: 21        
 - Easy: 11  
 - Medium: 8   
-- Hard: 1 
+- Hard: 2 
