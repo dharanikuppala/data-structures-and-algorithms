@@ -58,8 +58,14 @@ All solutions are written in Java
 ### Easy   
 1. Number of Steps to Reduce a Number to Zero - [Problem Link](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) , [Solution](01-arrays/15_number_of_steps.java) , Pattern: Recursion / Bit Manipulation
 
+---
+#### LinkedList
+
+### Easy 
+1. Remove Duplicates from Sorted List - [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) , [Solution](06-linkedlist/01_remove_duplicates_sorted_list.java) , Pattern: Linked List Traversal
+
  *** STATS ***
-- Total Problems Solved: 21        
-- Easy: 11  
+- Total Problems Solved: 22        
+- Easy: 12  
 - Medium: 8   
 - Hard: 2 
