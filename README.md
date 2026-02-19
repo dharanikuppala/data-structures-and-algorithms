@@ -35,7 +35,8 @@ All solutions are written in Java
 1. Find Smallest Letter Greater Than Target - [Problem Link](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) , [Solution](02-searching/01_next_greatest_letter.java) , Pattern: Binary Search (Upper Bound)
 
 ### Medium 
-1. Find First and Last Position of Element in Sorted Array - [Problem Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) , [Solution](02-searching/02_search_range.java) , Pattern: Binary Search (Lower & Upper Bound)  
+1. Find First and Last Position of Element in Sorted Array - [Problem Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) , [Solution](02-searching/02_search_range.java) , Pattern: Binary Search (Lower & Upper Bound)
+2. Search in Rotated Sorted Array - [Problem Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) , [Solution](02-searching/03_search_rotated_array.java) , Pattern: Modified Binary Search
 ---
 #### Strings
 
