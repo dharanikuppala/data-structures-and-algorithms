@@ -55,7 +55,7 @@ All solutions are written in Java
 1. Number of Steps to Reduce a Number to Zero - [Problem Link](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) , [Solution](01-arrays/15_number_of_steps.java) , Pattern: Recursion / Bit Manipulation
 
  *** STATS ***
-- Total Problems Solved: 18        
+- Total Problems Solved: 19        
 - Easy: 11  
-- Medium: 6   
+- Medium: 7   
 - Hard: 1 
