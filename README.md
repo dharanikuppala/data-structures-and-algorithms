@@ -66,7 +66,7 @@ All solutions are written in Java
 2. Merge Two Sorted Lists - [Problem Link](https://leetcode.com/problems/merge-two-sorted-lists/) , [Solution](06-linkedlist/02_merge_two_sorted_lists.java) , Pattern: Two Pointer (Linked List Merge)
 
  *** STATS ***
-- Total Problems Solved: 22        
-- Easy: 12  
+- Total Problems Solved: 23        
+- Easy: 13  
 - Medium: 8   
 - Hard: 2 
