@@ -63,6 +63,7 @@ All solutions are written in Java
 
 ### Easy 
 1. Remove Duplicates from Sorted List - [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) , [Solution](06-linkedlist/01_remove_duplicates_sorted_list.java) , Pattern: Linked List Traversal
+2. Merge Two Sorted Lists - [Problem Link](https://leetcode.com/problems/merge-two-sorted-lists/) , [Solution](06-linkedlist/02_merge_two_sorted_lists.java) , Pattern: Two Pointer (Linked List Merge)
 
  *** STATS ***
 - Total Problems Solved: 22        
