@@ -69,7 +69,7 @@ All solutions are written in Java
 4. Linked List Cycle - [Problem Link](https://leetcode.com/problems/linked-list-cycle/) , [Solution](06-linkedlist/04_linked_list_cycle.java) , Pattern: Fast & Slow Pointer  
 
  *** STATS ***
-- Total Problems Solved: 25        
-- Easy: 15  
+- Total Problems Solved: 26        
+- Easy: 16  
 - Medium: 8   
 - Hard: 2 
