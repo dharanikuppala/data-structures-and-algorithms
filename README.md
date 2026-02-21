@@ -13,7 +13,7 @@ All solutions are written in Java
 2. Build Array from Permutation - [Problem Link](https://leetcode.com/problems/build-array-from-permutation/) , [Solution](01-arrays/02_build_array_from_permutation.java) , Pattern: Direct Index Mapping    
 3. Richest Customer Wealth - [Problem Link](https://leetcode.com/problems/richest-customer-wealth/) , [Solution](01-arrays/04_richest_customer_wealth.java) , Pattern: Matrix Traversal
 4. Shuffle the Array - [Problem Link](https://leetcode.com/problems/shuffle-the-array/) , [Solution](01-arrays/05_shuffle_the_array.java) , Pattern: Direct Index Mapping  
-5. Find Numbers with Even Number of Digits - [Problem Link](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) , [Solution](01-arrays/09_find_numbers_with_even_digits.java) , Pattern: Digit Counting
+5. Find Numbers with Even Number of Digits - [Problem Link](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) , [Solution](01-arrays/09_find_numbers_with_even_number_of_digits.java) , Pattern: Digit Counting
 6. Move Zeroes - [Problem Link](https://leetcode.com/problems/move-zeroes/) , [Solution](01-arrays/11_move_zeroes.java) , Pattern: Two Pointer
 7. Flipping an Image - [Problem Link](https://leetcode.com/problems/flipping-an-image/) , [Solution](01-arrays/13_flip_and_invert_image.java) , Pattern: Two Pointer + Bit Manipulation
    
