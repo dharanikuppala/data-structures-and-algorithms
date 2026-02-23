@@ -70,7 +70,7 @@ All solutions are written in Java
 5. Reverse Linked List - [Problem Link](https://leetcode.com/problems/reverse-linked-list/) , [Solution](06-linkedlist/05_reverse_linked_list.java) , Pattern: Linked List Reversal
 
  *** STATS ***
-- Total Problems Solved: 26        
-- Easy: 16  
+- Total Problems Solved: 27        
+- Easy: 17  
 - Medium: 8   
 - Hard: 2 
