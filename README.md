@@ -74,14 +74,14 @@ All solutions are written in Java
 2. Sort List - [Problem Link](https://leetcode.com/problems/sort-list/) , [Solution](06-linkedlist/07_sort_list.java) , Pattern: Merge Sort (Linked List)
 
 ---
-#### Stacks
+#### Stack
 
 ### Easy 
 1. Valid Parentheses - [Problem Link](https://leetcode.com/problems/valid-parentheses/) , [Java Solution](07-stack/01_valid_parentheses.java) , Pattern: Stack
 
 
  *** STATS ***
-- Total Problems Solved: 29        
-- Easy: 17  
+- Total Problems Solved: 30        
+- Easy: 18  
 - Medium: 10   
 - Hard: 2 
