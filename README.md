@@ -66,7 +66,8 @@ All solutions are written in Java
 1. Remove Duplicates from Sorted List - [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) , [Solution](06-linkedlist/01_remove_duplicates_sorted_list.java) , Pattern: Linked List Traversal
 2. Merge Two Sorted Lists - [Problem Link](https://leetcode.com/problems/merge-two-sorted-lists/) , [Solution](06-linkedlist/02_merge_two_sorted_lists.java) , Pattern: Two Pointer (Linked List Merge)
 3. Middle of the Linked List - [Problem Link](https://leetcode.com/problems/middle-of-the-linked-list/) , [Solution](06-linkedlist/03_middle_of_linked_list.java) , Pattern: Fast & Slow Pointer
-4. Linked List Cycle - [Problem Link](https://leetcode.com/problems/linked-list-cycle/) , [Solution](06-linkedlist/04_linked_list_cycle.java) , Pattern: Fast & Slow Pointer  
+4. Linked List Cycle - [Problem Link](https://leetcode.com/problems/linked-list-cycle/) , [Solution](06-linkedlist/04_linked_list_cycle.java) , Pattern: Fast & Slow Pointer
+5. Reverse Linked List - [Problem Link](https://leetcode.com/problems/reverse-linked-list/) , [Solution](06-linkedlist/05_reverse_linked_list.java) , Pattern: Linked List Reversal
 
  *** STATS ***
 - Total Problems Solved: 26        
