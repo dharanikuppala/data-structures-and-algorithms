@@ -71,11 +71,11 @@ All solutions are written in Java
 
 ### Medium  
 1. Odd Even Linked List - [Problem Link](https://leetcode.com/problems/odd-even-linked-list/) , [Solution](06-linkedlist/06_odd_even_linked_list.java) , Pattern: Linked List Reordering
-2. Sort List - [Problem Link](https://leetcode.com/problems/sort-list/) , [Java Solution](06-linkedlist/07_sort_list.java) , Pattern: Merge Sort (Linked List)
+2. Sort List - [Problem Link](https://leetcode.com/problems/sort-list/) , [Solution](06-linkedlist/07_sort_list.java) , Pattern: Merge Sort (Linked List)
 
 
  *** STATS ***
-- Total Problems Solved: 28        
+- Total Problems Solved: 29        
 - Easy: 17  
-- Medium: 9   
+- Medium: 10   
 - Hard: 2 
