@@ -73,6 +73,12 @@ All solutions are written in Java
 1. Odd Even Linked List - [Problem Link](https://leetcode.com/problems/odd-even-linked-list/) , [Solution](06-linkedlist/06_odd_even_linked_list.java) , Pattern: Linked List Reordering
 2. Sort List - [Problem Link](https://leetcode.com/problems/sort-list/) , [Solution](06-linkedlist/07_sort_list.java) , Pattern: Merge Sort (Linked List)
 
+---
+#### Stacks
+
+### Easy 
+1. Valid Parentheses - [Problem Link](https://leetcode.com/problems/valid-parentheses/) , [Java Solution](07-stack/01_valid_parentheses.java) , Pattern: Stack
+
 
  *** STATS ***
 - Total Problems Solved: 29        
