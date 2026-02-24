@@ -79,9 +79,18 @@ All solutions are written in Java
 ### Easy 
 1. Valid Parentheses - [Problem Link](https://leetcode.com/problems/valid-parentheses/) , [Java Solution](07-stack/01_valid_parentheses.java) , Pattern: Stack
 
+---
+#### Queues
 
+---
+#### Trees
+
+### Easy
+1. Average of Levels in Binary Tree - [Problem Link](https://leetcode.com/problems/average-of-levels-in-binary-tree/) , [Solution](09-trees/01_average_of_levels.java) , Pattern: BFS (Level Order Traversal)
+
+---------------------
  *** STATS ***
-- Total Problems Solved: 30        
-- Easy: 18  
+- Total Problems Solved: 31        
+- Easy: 19  
 - Medium: 10   
 - Hard: 2 
