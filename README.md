@@ -88,9 +88,12 @@ All solutions are written in Java
 ### Easy
 1. Average of Levels in Binary Tree - [Problem Link](https://leetcode.com/problems/average-of-levels-in-binary-tree/) , [Solution](09-trees/01_average_of_levels.java) , Pattern: BFS (Level Order Traversal)
 
+### Medium
+1. Binary Tree Level Order Traversal - [Problem Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) , [Solution](09-trees/02_binary_tree_level_order.java) , Pattern: BFS (Level Order Traversal)
+  
 ---------------------
  *** STATS ***
-- Total Problems Solved: 31        
+- Total Problems Solved: 32        
 - Easy: 19  
-- Medium: 10   
+- Medium: 11   
 - Hard: 2 
