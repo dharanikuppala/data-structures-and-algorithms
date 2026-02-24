@@ -90,7 +90,11 @@ All solutions are written in Java
 
 ### Medium
 1. Binary Tree Level Order Traversal - [Problem Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) , [Solution](09-trees/02_binary_tree_level_order.java) , Pattern: BFS (Level Order Traversal)
-  
+2. Binary Tree Zigzag Level Order Traversal - [Problem Link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) , [Java Solution](09-trees/03_zigzag_level_order.java) , Pattern: BFS + Deque
+3. 
+
+
+   
 ---------------------
  *** STATS ***
 - Total Problems Solved: 32        
