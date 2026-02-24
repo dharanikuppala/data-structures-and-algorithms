@@ -2,8 +2,6 @@
 Daily DSA practice - Problems everyday with explanations and complexity analysis
 All solutions are written in Java
 
-### Problems
-
 
 ## Arrays
 
@@ -29,7 +27,7 @@ All solutions are written in Java
 1. First Missing Positive - [Problem Link](https://leetcode.com/problems/first-missing-positive/) , [Solution](01-arrays/08_first_missing_positive.java) , Pattern: Cyclic Sort 
 
 ---
-#### Searching
+## Searching
 
 ### Easy 
 1. Find Smallest Letter Greater Than Target - [Problem Link](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) , [Solution](02-searching/01_next_greatest_letter.java) , Pattern: Binary Search (Upper Bound)
@@ -40,27 +38,28 @@ All solutions are written in Java
 
 ### Hard
 1. Split Array Largest Sum - [Problem Link](https://leetcode.com/problems/split-array-largest-sum/) , [Solution](02-searching/04_split_array_largest_sum.java) , Pattern: Binary Search on Answer
----
-#### Strings
-
-### Easy
-1. Valid Palindrome - [Problem Link](https://leetcode.com/problems/valid-palindrome/) , [Solution](02-strings/01_valid_palindrome.java) , Pattern: Two Pointer (String)
 
 ---
-#### Sorting  
+## Sorting  
  
 ### Easy  
 1. Missing Number - [Problem Link](https://leetcode.com/problems/missing-number/) , [Solution](02-sorting/01_missing_number.java) , Pattern: Cyclic Sort
 
 ---
-#### Recursion  
+## Strings
+
+### Easy
+1. Valid Palindrome - [Problem Link](https://leetcode.com/problems/valid-palindrome/) , [Solution](02-strings/01_valid_palindrome.java) , Pattern: Two Pointer (String)
+
+---
+## Recursion  
 
 ### Easy   
 1. Number of Steps to Reduce a Number to Zero - [Problem Link](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) , [Solution](01-arrays/15_number_of_steps.java) , Pattern: Recursion / Bit Manipulation
 2. Happy Number - [Problem Link](https://leetcode.com/problems/happy-number/) , [Java Solution](05-recursion/02_happy_number.java) , Pattern: Floyd’s Cycle Detection
 
 ---
-#### LinkedList
+## LinkedList
 
 ### Easy 
 1. Remove Duplicates from Sorted List - [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) , [Solution](06-linkedlist/01_remove_duplicates_sorted_list.java) , Pattern: Linked List Traversal
@@ -74,16 +73,16 @@ All solutions are written in Java
 2. Sort List - [Problem Link](https://leetcode.com/problems/sort-list/) , [Solution](06-linkedlist/07_sort_list.java) , Pattern: Merge Sort (Linked List)
 
 ---
-#### Stack
+## Stack
 
 ### Easy 
 1. Valid Parentheses - [Problem Link](https://leetcode.com/problems/valid-parentheses/) , [Java Solution](07-stack/01_valid_parentheses.java) , Pattern: Stack
 
 ---
-#### Queues
+## Queues
 
 ---
-#### Trees
+## Trees
 
 ### Easy
 1. Average of Levels in Binary Tree - [Problem Link](https://leetcode.com/problems/average-of-levels-in-binary-tree/) , [Solution](09-trees/01_average_of_levels_in_binary_tree.java) , Pattern: BFS (Level Order Traversal)
@@ -93,7 +92,8 @@ All solutions are written in Java
 2. Binary Tree Zigzag Level Order Traversal - [Problem Link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) , [Solution](09-trees/03_zigzag_level_order.java) , Pattern: BFS + Deque
 3. Binary Tree Level Order Traversal II - [Problem Link](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) , [Java Solution](09-trees/04_level_order_bottom.java) , Pattern: BFS (Bottom-Up)
 
-
+---
+## Heaps
    
 ---------------------
  *** STATS ***
