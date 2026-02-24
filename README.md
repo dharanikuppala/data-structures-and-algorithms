@@ -5,7 +5,7 @@ All solutions are written in Java
 ### Problems
 
 
-#### Arrays
+## Arrays
 
 ### Easy
 
