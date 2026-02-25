@@ -77,12 +77,12 @@ All solutions are written in Java
 ### Easy
 1. Average of Levels in Binary Tree - [Problem Link](https://leetcode.com/problems/average-of-levels-in-binary-tree/) , [Solution](09-trees/01_average_of_levels_in_binary_tree.java) , Pattern: BFS (Level Order Traversal)
 2. Cousins in Binary Tree - [Problem Link](https://leetcode.com/problems/cousins-in-binary-tree/) , [Solution](09-trees/06_cousins_in_binary_tree.java) , Pattern: DFS (Depth + Parent Check)
-3. Symmetric Tree - [Problem Link](https://leetcode.com/problems/symmetric-tree/) , [Java Solution](09-trees/07_symmetric_tree.java) , Pattern: DFS (Mirror Comparison)
+3. Symmetric Tree - [Problem Link](https://leetcode.com/problems/symmetric-tree/) , [Solution](09-trees/07_symmetric_tree.java) , Pattern: DFS (Mirror Comparison)
 
 ### Medium
 1. Binary Tree Level Order Traversal - [Problem Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) , [Solution](09-trees/02_binary_tree_level_order.java) , Pattern: BFS (Level Order Traversal)
 2. Binary Tree Zigzag Level Order Traversal - [Problem Link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) , [Solution](09-trees/03_zigzag_level_order.java) , Pattern: BFS + Deque
-3. Binary Tree Level Order Traversal II - [Problem Link](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) , [Java Solution](09-trees/04_level_order_bottom.java) , Pattern: BFS (Bottom-Up)
+3. Binary Tree Level Order Traversal II - [Problem Link](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) , [Solution](09-trees/04_level_order_bottom.java) , Pattern: BFS (Bottom-Up)
 4. Binary Tree Right Side View - [Problem Link](https://leetcode.com/problems/binary-tree-right-side-view/) , [Solution](09-trees/05_right_side_view.java) , Pattern: BFS (Level-Based View)
 
 ---
@@ -90,7 +90,7 @@ All solutions are written in Java
    
 ---------------------
  *** STATS ***
-- Total Problems Solved: 36        
-- Easy: 20  
+- Total Problems Solved: 37        
+- Easy: 21  
 - Medium: 14   
 - Hard: 2 
