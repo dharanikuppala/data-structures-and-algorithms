@@ -98,7 +98,7 @@ All solutions are written in Java
    
 ---------------------
  *** STATS ***
-- Total Problems Solved: 34        
+- Total Problems Solved: 35        
 - Easy: 19  
-- Medium: 13   
+- Medium: 14   
 - Hard: 2 
