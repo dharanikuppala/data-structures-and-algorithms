@@ -99,7 +99,7 @@ All solutions are written in Java
    
 ---------------------
  *** STATS ***
-- Total Problems Solved: 35        
-- Easy: 19  
+- Total Problems Solved: 36        
+- Easy: 20  
 - Medium: 14   
 - Hard: 2 
