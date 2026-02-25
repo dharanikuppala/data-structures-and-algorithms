@@ -1,5 +1,5 @@
 # data-structures-and-algorithms
-Daily DSA practice - Problems everyday with explanations and complexity analysis
+Daily DSA practice - Problems everyday with explanations and complexity analysis  
 All solutions are written in Java
 
 
