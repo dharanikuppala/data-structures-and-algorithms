@@ -4,9 +4,7 @@ All solutions are written in Java
 
 
 ## Arrays
-
 ### Easy
-
 1. Concatenation of Array - [Problem Link](https://leetcode.com/problems/concatenation-of-array/) , [Solution](01-arrays/01_concatenation_of_array.java) , Pattern: Direct Index Mapping    
 2. Build Array from Permutation - [Problem Link](https://leetcode.com/problems/build-array-from-permutation/) , [Solution](01-arrays/02_build_array_from_permutation.java) , Pattern: Direct Index Mapping    
 3. Richest Customer Wealth - [Problem Link](https://leetcode.com/problems/richest-customer-wealth/) , [Solution](01-arrays/04_richest_customer_wealth.java) , Pattern: Matrix Traversal
@@ -28,7 +26,6 @@ All solutions are written in Java
 
 ---
 ## Searching
-
 ### Easy 
 1. Find Smallest Letter Greater Than Target - [Problem Link](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) , [Solution](02-searching/01_next_greatest_letter.java) , Pattern: Binary Search (Upper Bound)
 
@@ -41,26 +38,22 @@ All solutions are written in Java
 
 ---
 ## Sorting  
- 
 ### Easy  
 1. Missing Number - [Problem Link](https://leetcode.com/problems/missing-number/) , [Solution](02-sorting/01_missing_number.java) , Pattern: Cyclic Sort
 
 ---
 ## Strings
-
 ### Easy
 1. Valid Palindrome - [Problem Link](https://leetcode.com/problems/valid-palindrome/) , [Solution](02-strings/01_valid_palindrome.java) , Pattern: Two Pointer (String)
 
 ---
 ## Recursion  
-
 ### Easy   
 1. Number of Steps to Reduce a Number to Zero - [Problem Link](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) , [Solution](01-arrays/15_number_of_steps.java) , Pattern: Recursion / Bit Manipulation
 2. Happy Number - [Problem Link](https://leetcode.com/problems/happy-number/) , [Java Solution](05-recursion/02_happy_number.java) , Pattern: Floyd’s Cycle Detection
 
 ---
 ## LinkedList
-
 ### Easy 
 1. Remove Duplicates from Sorted List - [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) , [Solution](06-linkedlist/01_remove_duplicates_sorted_list.java) , Pattern: Linked List Traversal
 2. Merge Two Sorted Lists - [Problem Link](https://leetcode.com/problems/merge-two-sorted-lists/) , [Solution](06-linkedlist/02_merge_two_sorted_lists.java) , Pattern: Two Pointer (Linked List Merge)
@@ -74,16 +67,13 @@ All solutions are written in Java
 
 ---
 ## Stack
-
 ### Easy 
 1. Valid Parentheses - [Problem Link](https://leetcode.com/problems/valid-parentheses/) , [Java Solution](07-stack/01_valid_parentheses.java) , Pattern: Stack
 
 ---
 ## Queues
-
 ---
 ## Trees
-
 ### Easy
 1. Average of Levels in Binary Tree - [Problem Link](https://leetcode.com/problems/average-of-levels-in-binary-tree/) , [Solution](09-trees/01_average_of_levels_in_binary_tree.java) , Pattern: BFS (Level Order Traversal)
 2. Cousins in Binary Tree - [Problem Link](https://leetcode.com/problems/cousins-in-binary-tree/) , [Solution](09-trees/06_cousins_in_binary_tree.java) , Pattern: DFS (Depth + Parent Check)
