@@ -79,6 +79,7 @@ All solutions are written in Java
 2. Cousins in Binary Tree - [Problem Link](https://leetcode.com/problems/cousins-in-binary-tree/) , [Solution](09-trees/06_cousins_in_binary_tree.java) , Pattern: DFS (Depth + Parent Check)
 3. Symmetric Tree - [Problem Link](https://leetcode.com/problems/symmetric-tree/) , [Solution](09-trees/07_symmetric_tree.java) , Pattern: DFS (Mirror Comparison)
 4. Same Tree - [Problem Link](https://leetcode.com/problems/same-tree/) , [Solution](09-trees/08_same_tree.java) , Pattern: DFS (Tree Comparison)
+5. Diameter of Binary Tree - [Problem Link](https://leetcode.com/problems/diameter-of-binary-tree/) , [Java Solution](09-trees/09_diameter_of_binary_tree.java) , Pattern: DFS (Tree DP)
 
 ### Medium
 1. Binary Tree Level Order Traversal - [Problem Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) , [Solution](09-trees/02_binary_tree_level_order.java) , Pattern: BFS (Level Order Traversal)
