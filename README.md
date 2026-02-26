@@ -78,7 +78,7 @@ All solutions are written in Java
 1. Average of Levels in Binary Tree - [Problem Link](https://leetcode.com/problems/average-of-levels-in-binary-tree/) , [Solution](09-trees/01_average_of_levels_in_binary_tree.java) , Pattern: BFS (Level Order Traversal)
 2. Cousins in Binary Tree - [Problem Link](https://leetcode.com/problems/cousins-in-binary-tree/) , [Solution](09-trees/06_cousins_in_binary_tree.java) , Pattern: DFS (Depth + Parent Check)
 3. Symmetric Tree - [Problem Link](https://leetcode.com/problems/symmetric-tree/) , [Solution](09-trees/07_symmetric_tree.java) , Pattern: DFS (Mirror Comparison)
-4. Same Tree - [Problem Link](https://leetcode.com/problems/same-tree/) , [Java Solution](09-trees/08_same_tree.java) , Pattern: DFS (Tree Comparison)
+4. Same Tree - [Problem Link](https://leetcode.com/problems/same-tree/) , [Solution](09-trees/08_same_tree.java) , Pattern: DFS (Tree Comparison)
 
 ### Medium
 1. Binary Tree Level Order Traversal - [Problem Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) , [Solution](09-trees/02_binary_tree_level_order.java) , Pattern: BFS (Level Order Traversal)
@@ -91,7 +91,7 @@ All solutions are written in Java
    
 ---------------------
  *** STATS ***
-- Total Problems Solved: 37        
-- Easy: 21  
+- Total Problems Solved: 38        
+- Easy: 22  
 - Medium: 14   
 - Hard: 2 
