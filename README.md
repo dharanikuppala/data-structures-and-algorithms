@@ -80,6 +80,7 @@ All solutions are written in Java
 3. Symmetric Tree - [Problem Link](https://leetcode.com/problems/symmetric-tree/) , [Solution](09-trees/07_symmetric_tree.java) , Pattern: DFS (Mirror Comparison)
 4. Same Tree - [Problem Link](https://leetcode.com/problems/same-tree/) , [Solution](09-trees/08_same_tree.java) , Pattern: DFS (Tree Comparison)
 5. Diameter of Binary Tree - [Problem Link](https://leetcode.com/problems/diameter-of-binary-tree/) , [Solution](09-trees/09_diameter_of_binary_tree.java) , Pattern: DFS (Tree DP)
+6. Invert Binary Tree - [Problem Link](https://leetcode.com/problems/invert-binary-tree/) , [Java Solution](09-trees/10_invert_binary_tree.java) , Pattern: DFS (Tree Transformation)
 
 ### Medium
 1. Binary Tree Level Order Traversal - [Problem Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) , [Solution](09-trees/02_binary_tree_level_order.java) , Pattern: BFS (Level Order Traversal)
