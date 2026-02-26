@@ -93,7 +93,7 @@ All solutions are written in Java
    
 ---------------------
  *** STATS ***
-- Total Problems Solved: 39        
-- Easy: 23  
+- Total Problems Solved: 40        
+- Easy: 24  
 - Medium: 14   
 - Hard: 2 
