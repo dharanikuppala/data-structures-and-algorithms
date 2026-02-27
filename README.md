@@ -82,6 +82,7 @@ All solutions are written in Java
 5. Diameter of Binary Tree - [Problem Link](https://leetcode.com/problems/diameter-of-binary-tree/) , [Solution](09-trees/09_diameter_of_binary_tree.java) , Pattern: DFS (Tree DP)
 6. Invert Binary Tree - [Problem Link](https://leetcode.com/problems/invert-binary-tree/) , [Solution](09-trees/10_invert_binary_tree.java) , Pattern: DFS (Tree Transformation)
 7. Maximum Depth of Binary Tree - [Problem Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/) , [Solution](09-trees/11_maximum_depth_of_binary_tree.java) , Pattern: DFS (Tree Height Calculation)
+8. Convert Sorted Array to Binary Search Tree - [Problem Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) , [Java Solution](09-trees/12_convert_sorted_array_to_bst.java) , Pattern: Divide & Conquer (Balanced BST Construction)
 
 ### Medium
 1. Binary Tree Level Order Traversal - [Problem Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) , [Solution](09-trees/02_binary_tree_level_order.java) , Pattern: BFS (Level Order Traversal)
