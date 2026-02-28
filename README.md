@@ -89,6 +89,7 @@ All solutions are written in Java
 2. Binary Tree Zigzag Level Order Traversal - [Problem Link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) , [Solution](09-trees/03_zigzag_level_order.java) , Pattern: BFS + Deque
 3. Binary Tree Level Order Traversal II - [Problem Link](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) , [Solution](09-trees/04_level_order_bottom.java) , Pattern: BFS (Bottom-Up)
 4. Binary Tree Right Side View - [Problem Link](https://leetcode.com/problems/binary-tree-right-side-view/) , [Solution](09-trees/05_right_side_view.java) , Pattern: BFS (Level-Based View)
+5. Flatten Binary Tree to Linked List - [Problem Link](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) , [Solution](09-trees/13_flatten_binary_tree.java) , Pattern: DFS (Tree Rewiring)
 
 ---
 ## Heaps
