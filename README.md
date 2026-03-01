@@ -91,6 +91,7 @@ All solutions are written in Java
 4. Binary Tree Right Side View - [Problem Link](https://leetcode.com/problems/binary-tree-right-side-view/) , [Solution](09-trees/05_right_side_view.java) , Pattern: BFS (Level-Based View)
 5. Flatten Binary Tree to Linked List - [Problem Link](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) , [Solution](09-trees/13_flatten_binary_tree.java) , Pattern: DFS (Tree Rewiring)
 6. Lowest Common Ancestor of a Binary Tree - [Problem Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) , [Solution](09-trees/14_lowest_common_ancestor.java) , Pattern: DFS (Post-order)
+7. Construct Binary Tree from Preorder and Inorder Traversal - [Problem Link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) , [Java Solution](09-trees/13_construct_tree_preorder_inorder.java) , Pattern: Divide & Conquer (Tree Construction)
 
 ---
 ## Heaps
