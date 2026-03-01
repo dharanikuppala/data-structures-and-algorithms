@@ -32,7 +32,7 @@ All solutions are written in Java
 ### Medium 
 1. Find First and Last Position of Element in Sorted Array - [Problem Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) , [Solution](02-searching/02_search_range.java) , Pattern: Binary Search (Lower & Upper Bound)
 2. Search in Rotated Sorted Array - [Problem Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) , [Solution](02-searching/03_search_rotated_array.java) , Pattern: Modified Binary Search
-3. Search in Rotated Sorted Array - [Problem Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) , [Java Solution](02-searching/05_search_rotated_sorted_array.java) , Pattern: Modified Binary Search (Rotated Array Logic) 
+3. Search in Rotated Sorted Array - [Problem Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) , [Solution](02-searching/05_search_rotated_sorted_array.java) , Pattern: Modified Binary Search (Rotated Array Logic) 
 
 ### Hard
 1. Split Array Largest Sum - [Problem Link](https://leetcode.com/problems/split-array-largest-sum/) , [Solution](02-searching/04_split_array_largest_sum.java) , Pattern: Binary Search on Answer
@@ -99,7 +99,7 @@ All solutions are written in Java
    
 ---------------------
  *** STATS ***
-- Total Problems Solved: 45        
+- Total Problems Solved: 46        
 - Easy: 26  
-- Medium: 17   
+- Medium: 18   
 - Hard: 2 
