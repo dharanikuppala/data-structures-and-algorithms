@@ -23,7 +23,8 @@ All solutions are written in Java
 7. Maximum Subarray - [Problem Link](https://leetcode.com/problems/maximum-subarray/) , [Solution](01-arrays/15_maximum_subarray.java) , Pattern: Kadane’s Algorithm     
 
 ### Hard
-1. First Missing Positive - [Problem Link](https://leetcode.com/problems/first-missing-positive/) , [Solution](01-arrays/08_first_missing_positive.java) , Pattern: Cyclic Sort 
+1. First Missing Positive - [Problem Link](https://leetcode.com/problems/first-missing-positive/) , [Solution](01-arrays/08_first_missing_positive.java) , Pattern: Cyclic Sort
+
 
 ---
 ## Searching
