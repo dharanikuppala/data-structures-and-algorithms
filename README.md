@@ -19,7 +19,8 @@ All solutions are written in Java
 3. Find All Duplicates in an Array - [Problem Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/) , [Solution](01-arrays/07_find_all_duplicates.java) , Pattern: Cyclic Sort
 4. Search a 2D Matrix II - [Problem Link](https://leetcode.com/problems/search-a-2d-matrix-ii/) , [Solution](01-arrays/10_search_2d_matrix_ii.java) , Pattern: Staircase Search
 5. Search a 2D Matrix - [Problem Link](https://leetcode.com/problems/search-a-2d-matrix/) , [Solution](01-arrays/12_search_matrix_binary.java) , Pattern: Binary Search
-6. Count Primes - [Problem Link](https://leetcode.com/problems/count-primes/) , [Solution](01-arrays/14_count_primes.java) , Pattern: Sieve of Eratosthenes    
+6. Count Primes - [Problem Link](https://leetcode.com/problems/count-primes/) , [Solution](01-arrays/14_count_primes.java) , Pattern: Sieve of Eratosthenes
+7. Maximum Subarray - [Problem Link](https://leetcode.com/problems/maximum-subarray/) , [Java Solution](01-arrays/02_maximum_subarray.java) , Pattern: Kadane’s Algorithm     
 
 ### Hard
 1. First Missing Positive - [Problem Link](https://leetcode.com/problems/first-missing-positive/) , [Solution](01-arrays/08_first_missing_positive.java) , Pattern: Cyclic Sort 
