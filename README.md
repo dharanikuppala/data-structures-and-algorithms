@@ -12,6 +12,7 @@ All solutions are written in Java
 5. Find Numbers with Even Number of Digits - [Problem Link](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) , [Solution](01-arrays/09_find_numbers_with_even_number_of_digits.java) , Pattern: Digit Counting
 6. Move Zeroes - [Problem Link](https://leetcode.com/problems/move-zeroes/) , [Solution](01-arrays/11_move_zeroes.java) , Pattern: Two Pointer
 7. Flipping an Image - [Problem Link](https://leetcode.com/problems/flipping-an-image/) , [Solution](01-arrays/13_flipping_an_image.java) , Pattern: Two Pointer + Bit Manipulation
+8. Best Time to Buy and Sell Stock - [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) , [Java Solution](01-arrays/16_best_time_to_buy_sell_stock.java) , Pattern: Greedy (Running Minimum)  
    
 ### Medium
 1. Two Sum II - Input Array Is Sorted - [Problem Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) , [Solution](01-arrays/03_two_sum_ii.java) , Pattern: Two Pointer
