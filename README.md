@@ -100,7 +100,7 @@ All solutions are written in Java
    
 ---------------------
  *** STATS ***
-- Total Problems Solved: 46        
+- Total Problems Solved: 47        
 - Easy: 26  
 - Medium: 18   
 - Hard: 2 
