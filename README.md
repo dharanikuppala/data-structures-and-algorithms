@@ -64,7 +64,7 @@ All solutions are written in Java
 3. Middle of the Linked List - [Problem Link](https://leetcode.com/problems/middle-of-the-linked-list/) , [Solution](06-linkedlist/03_middle_of_linked_list.java) , Pattern: Fast & Slow Pointer
 4. Linked List Cycle - [Problem Link](https://leetcode.com/problems/linked-list-cycle/) , [Solution](06-linkedlist/04_linked_list_cycle.java) , Pattern: Fast & Slow Pointer
 5. Reverse Linked List - [Problem Link](https://leetcode.com/problems/reverse-linked-list/) , [Solution](06-linkedlist/05_reverse_linked_list.java) , Pattern: Linked List Reversal
-6. Palindrome Linked List - [Problem Link](https://leetcode.com/problems/palindrome-linked-list/) , [Java Solution](06-linkedlist/08_palindrome_linked_list.java) ,Pattern: Fast & Slow + Reverse List 
+6. Palindrome Linked List - [Problem Link](https://leetcode.com/problems/palindrome-linked-list/) , [Solution](06-linkedlist/08_palindrome_linked_list.java) ,Pattern: Fast & Slow + Reverse List 
 
 ### Medium  
 1. Odd Even Linked List - [Problem Link](https://leetcode.com/problems/odd-even-linked-list/) , [Solution](06-linkedlist/06_odd_even_linked_list.java) , Pattern: Linked List Reordering
