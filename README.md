@@ -103,7 +103,7 @@ All solutions are written in Java
    
 ---------------------
  *** STATS ***
-- Total Problems Solved: 48        
-- Easy: 27  
+- Total Problems Solved: 49        
+- Easy: 28  
 - Medium: 19   
 - Hard: 2 
