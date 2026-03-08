@@ -104,7 +104,7 @@ All solutions are written in Java
    
 ---------------------
  *** STATS ***
-- Total Problems Solved: 49        
+- Total Problems Solved: 50        
 - Easy: 28  
 - Medium: 19   
 - Hard: 2 
