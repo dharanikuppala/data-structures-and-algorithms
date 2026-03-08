@@ -69,6 +69,7 @@ All solutions are written in Java
 ### Medium  
 1. Odd Even Linked List - [Problem Link](https://leetcode.com/problems/odd-even-linked-list/) , [Solution](06-linkedlist/06_odd_even_linked_list.java) , Pattern: Linked List Reordering
 2. Sort List - [Problem Link](https://leetcode.com/problems/sort-list/) , [Solution](06-linkedlist/07_sort_list.java) , Pattern: Merge Sort (Linked List)
+3. Linked List Cycle II - [Problem Link](https://leetcode.com/problems/linked-list-cycle-ii/) , [Java Solution](06-linkedlist/09_linked_list_cycle_ii.java) , Pattern: Floyd’s Cycle Detection    
 
 ---
 ## Stack
