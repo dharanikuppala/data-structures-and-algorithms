@@ -106,5 +106,5 @@ All solutions are written in Java
  *** STATS ***
 - Total Problems Solved: 50        
 - Easy: 28  
-- Medium: 19   
+- Medium: 20   
 - Hard: 2 
