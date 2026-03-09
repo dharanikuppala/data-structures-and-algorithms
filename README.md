@@ -78,7 +78,9 @@ All solutions are written in Java
 1. Valid Parentheses - [Problem Link](https://leetcode.com/problems/valid-parentheses/) , [Java Solution](07-stack/01_valid_parentheses.java) , Pattern: Stack
 
 ---
-## Queues
+## Queues  
+### Easy  
+1. Implement Queue using Stacks - [Problem Link](https://leetcode.com/problems/implement-queue-using-stacks/) , [Java Solution](08-queues/01_queue_using_stacks.java) , Pattern: Stack Simulation  
 ---
 ## Trees
 ### Easy
