@@ -70,18 +70,18 @@ All solutions are written in Java
 ### Medium  
 1. Odd Even Linked List - [Problem Link](https://leetcode.com/problems/odd-even-linked-list/) , [Solution](06-linkedlist/06_odd_even_linked_list.java) , Pattern: Linked List Reordering
 2. Sort List - [Problem Link](https://leetcode.com/problems/sort-list/) , [Solution](06-linkedlist/07_sort_list.java) , Pattern: Merge Sort (Linked List)
-3. Linked List Cycle II - [Problem Link](https://leetcode.com/problems/linked-list-cycle-ii/) , [Java Solution](06-linkedlist/09_linked_list_cycle_ii.java) , Pattern: Floyd’s Cycle Detection    
+3. Linked List Cycle II - [Problem Link](https://leetcode.com/problems/linked-list-cycle-ii/) , [Solution](06-linkedlist/09_linked_list_cycle_ii.java) , Pattern: Floyd’s Cycle Detection    
 
 ---
 ## Stack
 ### Easy 
-1. Valid Parentheses - [Problem Link](https://leetcode.com/problems/valid-parentheses/) , [Java Solution](07-stack/01_valid_parentheses.java) , Pattern: Stack
-2. Next Greater Element I - [Problem Link](https://leetcode.com/problems/next-greater-element-i/) , [Java Solution](07-stack/02_next_greater_element.java) , Pattern: Monotonic Stack  
+1. Valid Parentheses - [Problem Link](https://leetcode.com/problems/valid-parentheses/) , [Solution](07-stack/01_valid_parentheses.java) , Pattern: Stack
+2. Next Greater Element I - [Problem Link](https://leetcode.com/problems/next-greater-element-i/) , [Solution](07-stack/02_next_greater_element.java) , Pattern: Monotonic Stack  
 
 ---
 ## Queues  
 ### Easy  
-1. Implement Queue using Stacks - [Problem Link](https://leetcode.com/problems/implement-queue-using-stacks/) , [Java Solution](08-queues/01_queue_using_stacks.java) , Pattern: Stack Simulation  
+1. Implement Queue using Stacks - [Problem Link](https://leetcode.com/problems/implement-queue-using-stacks/) , [Solution](08-queues/01_queue_using_stacks.java) , Pattern: Stack Simulation  
 ---
 ## Trees
 ### Easy
