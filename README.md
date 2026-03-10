@@ -76,6 +76,9 @@ All solutions are written in Java
 ## Stack
 ### Easy 
 1. Valid Parentheses - [Problem Link](https://leetcode.com/problems/valid-parentheses/) , [Java Solution](07-stack/01_valid_parentheses.java) , Pattern: Stack
+2. Next Greater Element I - [Problem Link](https://leetcode.com/problems/next-greater-element-i/)  
+💻 [Java Solution](07-stack/02_next_greater_element.java)  
+🧠 Pattern: Monotonic Stack  
 
 ---
 ## Queues  
