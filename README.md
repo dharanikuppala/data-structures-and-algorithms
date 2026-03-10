@@ -54,7 +54,7 @@ All solutions are written in Java
 ## Recursion  
 ### Easy   
 1. Number of Steps to Reduce a Number to Zero - [Problem Link](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) , [Solution](01-arrays/15_number_of_steps.java) , Pattern: Recursion / Bit Manipulation
-2. Happy Number - [Problem Link](https://leetcode.com/problems/happy-number/) , [Java Solution](05-recursion/02_happy_number.java) , Pattern: Floyd’s Cycle Detection
+2. Happy Number - [Problem Link](https://leetcode.com/problems/happy-number/) , [Solution](05-recursion/02_happy_number.java) , Pattern: Floyd’s Cycle Detection
 
 ---
 ## LinkedList
