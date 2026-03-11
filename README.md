@@ -109,7 +109,7 @@ All solutions are written in Java
    
 ---------------------
  *** STATS ***
-- Total Problems Solved: 53        
+- Total Problems Solved: 54        
 - Easy: 31  
 - Medium: 20   
 - Hard: 2 
