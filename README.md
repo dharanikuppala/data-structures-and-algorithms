@@ -110,7 +110,7 @@ All solutions are written in Java
    
 ---------------------
  *** STATS ***
-- Total Problems Solved: 54        
-- Easy: 32  
+- Total Problems Solved: 55        
+- Easy: 33  
 - Medium: 20   
 - Hard: 2 
