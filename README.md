@@ -114,7 +114,7 @@ All solutions are written in Java
    
 ---------------------
  *** STATS ***
-- Total Problems Solved: 55        
+- Total Problems Solved: 56        
 - Easy: 33  
 - Medium: 21   
 - Hard: 2 
