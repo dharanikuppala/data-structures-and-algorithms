@@ -52,7 +52,7 @@ All solutions are written in Java
 2. Valid Anagram - [Problem Link](https://leetcode.com/problems/valid-anagram/) , [Solution](04-strings/02_valid_anagram.java) , Pattern: Frequency Counting
 
 ### Medium  
-1. Group Anagrams - [Problem Link](https://leetcode.com/problems/group-anagrams/) , [Solution](01-strings/49_group_anagrams.java) , Pattern: Hash Table / Character Frequency
+1. Group Anagrams - [Problem Link](https://leetcode.com/problems/group-anagrams/) , [Solution](01-strings/03_group_anagrams.java) , Pattern: Hash Table / Character Frequency
 
 
 ---
