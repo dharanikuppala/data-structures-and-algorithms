@@ -49,7 +49,7 @@ All solutions are written in Java
 ## Strings
 ### Easy
 1. Valid Palindrome - [Problem Link](https://leetcode.com/problems/valid-palindrome/) , [Solution](02-strings/01_valid_palindrome.java) , Pattern: Two Pointer (String)
-2. Valid Anagram - [Problem Link](https://leetcode.com/problems/valid-anagram/) , [Solution](01-strings/242_valid_anagram.java) , Pattern: Hashing / Frequency Counting
+2. Valid Anagram - [Problem Link](https://leetcode.com/problems/valid-anagram/) , [Solution](01-strings/02_valid_anagram.java) , Pattern: Hashing / Frequency Counting
 
 ---
 ## Recursion  
