@@ -48,8 +48,8 @@ All solutions are written in Java
 ---
 ## Strings
 ### Easy
-1. Valid Palindrome - [Problem Link](https://leetcode.com/problems/valid-palindrome/) , [Solution](02-strings/01_valid_palindrome.java) , Pattern: Two Pointer (String)
-2. Valid Anagram - [Problem Link](https://leetcode.com/problems/valid-anagram/) , [Solution](02-strings/02_valid_anagram.java) , Pattern: Frequency Counting
+1. Valid Palindrome - [Problem Link](https://leetcode.com/problems/valid-palindrome/) , [Solution](04-strings/01_valid_palindrome.java) , Pattern: Two Pointer (String)
+2. Valid Anagram - [Problem Link](https://leetcode.com/problems/valid-anagram/) , [Solution](04-strings/02_valid_anagram.java) , Pattern: Frequency Counting
 
 ---
 ## Recursion  
