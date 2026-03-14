@@ -51,6 +51,7 @@ All solutions are written in Java
 ### Easy
 1. Valid Palindrome - [Problem Link](https://leetcode.com/problems/valid-palindrome/) , [Solution](04-strings/01_valid_palindrome.java) , Pattern: Two Pointer (String)
 2. Valid Anagram - [Problem Link](https://leetcode.com/problems/valid-anagram/) , [Solution](04-strings/02_valid_anagram.java) , Pattern: Frequency Counting
+3. Reverse String - [Problem Link](https://leetcode.com/problems/reverse-string/) , [Solution](04-strings/04_reverse_string.java) , Pattern: Two Pointers
 
 ### Medium  
 1. Group Anagrams - [Problem Link](https://leetcode.com/problems/group-anagrams/) , [Solution](04-strings/03_group_anagrams.java) , Pattern: Hash Table / Character Frequency
@@ -115,7 +116,7 @@ All solutions are written in Java
    
 ---------------------
  *** STATS ***
-- Total Problems Solved: 57        
-- Easy: 34  
+- Total Problems Solved: 58        
+- Easy: 35  
 - Medium: 21   
 - Hard: 2 
