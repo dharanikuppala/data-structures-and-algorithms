@@ -119,6 +119,6 @@ All solutions are written in Java
 ---------------------
  *** STATS ***
 - Total Problems Solved: 60        
-- Easy: 36  
+- Easy: 37  
 - Medium: 21   
 - Hard: 2 
