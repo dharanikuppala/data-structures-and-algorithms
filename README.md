@@ -14,6 +14,7 @@ All solutions are written in Java
 7. Flipping an Image - [Problem Link](https://leetcode.com/problems/flipping-an-image/) , [Solution](01-arrays/13_flipping_an_image.java) , Pattern: Two Pointer + Bit Manipulation
 8. Best Time to Buy and Sell Stock - [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) , [Java Solution](01-arrays/16_best_time_to_buy_sell_stock.java) , Pattern: Greedy (Running Minimum)
 9. Majority Element - [Problem Link](https://leetcode.com/problems/majority-element/) , [Solution](01-arrays/17_majority_element.java) , Pattern: Frequency Counting
+10. Running sum of 1D array - [Problem Link](https://leetcode.com/problems/running-sum-of-1d-array/) , [Solution](01-arrays/18_running_sum_of_1d_array.java) , Pattern: Traverse the array
    
 ### Medium
 1. Two Sum II - Input Array Is Sorted - [Problem Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) , [Solution](01-arrays/03_two_sum_ii.java) , Pattern: Two Pointer
