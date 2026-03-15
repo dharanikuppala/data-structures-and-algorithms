@@ -86,11 +86,16 @@ All solutions are written in Java
 2. Sort List - [Problem Link](https://leetcode.com/problems/sort-list/) , [Solution](06-linkedlist/07_sort_list.java) , Pattern: Merge Sort (Linked List)
 3. Linked List Cycle II - [Problem Link](https://leetcode.com/problems/linked-list-cycle-ii/) , [Solution](06-linkedlist/09_linked_list_cycle_ii.java) , Pattern: Floyd’s Cycle Detection    
 
+### Hard
 ---
 ## Stack
 ### Easy 
 1. Valid Parentheses - [Problem Link](https://leetcode.com/problems/valid-parentheses/) , [Solution](07-stack/01_valid_parentheses.java) , Pattern: Stack
-2. Next Greater Element I - [Problem Link](https://leetcode.com/problems/next-greater-element-i/) , [Solution](07-stack/02_next_greater_element.java) , Pattern: Monotonic Stack  
+2. Next Greater Element I - [Problem Link](https://leetcode.com/problems/next-greater-element-i/) , [Solution](07-stack/02_next_greater_element.java) , Pattern: Monotonic Stack
+
+### Medium
+
+### Hard
 
 ---
 ## Queues  
