@@ -46,7 +46,8 @@ All solutions are written in Java
 ## Sorting  
 ### Easy  
 1. Missing Number - [Problem Link](https://leetcode.com/problems/missing-number/) , [Solution](02-sorting/01_missing_number.java) , Pattern: Cyclic Sort
-
+### Medium
+### Hard
 ---
 ## Strings
 ### Easy
