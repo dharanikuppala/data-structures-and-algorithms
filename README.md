@@ -139,7 +139,7 @@ All solutions are written in Java
    
 ---------------------
  *** STATS ***
-- Total Problems Solved: 60        
+- Total Problems Solved: 61        
 - Easy: 38  
 - Medium: 21   
 - Hard: 2 
