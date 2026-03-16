@@ -130,7 +130,7 @@ All solutions are written in Java
 ## Dynamic Programming
 
 ### Easy
-1. Climbing Stairs - [Problem Link](https://leetcode.com/problems/climbing-stairs/) , [Solution](11-dynamic-programming/70_climbing_stairs.java) , Pattern: Dynamic Programming / Fibonacci
+1. Climbing Stairs - [Problem Link](https://leetcode.com/problems/climbing-stairs/) , [Solution](11-dynamic-programming/1_climbing_stairs.java) , Pattern: Dynamic Programming / Fibonacci
 
 ### Medium
 
