@@ -140,6 +140,6 @@ All solutions are written in Java
 ---------------------
  *** STATS ***
 - Total Problems Solved: 60        
-- Easy: 37  
+- Easy: 38  
 - Medium: 21   
 - Hard: 2 
