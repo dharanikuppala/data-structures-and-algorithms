@@ -125,6 +125,16 @@ All solutions are written in Java
 
 ---
 ## Heaps
+
+---
+## Dynamic Programming
+
+### Easy
+
+### Medium
+
+### Hard
+
    
 ---------------------
  *** STATS ***
