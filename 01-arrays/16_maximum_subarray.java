@@ -3,6 +3,7 @@ Problem: 53. Maximum Subarray
 Platform: LeetCode
 Difficulty: Medium
 Pattern: Kadane’s Algorithm
+Topic: Arrays
 
 Time Complexity: O(n)
 Space Complexity: O(1)
