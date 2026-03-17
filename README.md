@@ -5,16 +5,17 @@ All solutions are written in Java
 
 ## Arrays
 ### Easy
-1. Concatenation of Array - [Problem Link](https://leetcode.com/problems/concatenation-of-array/) , [Solution](01-arrays/01_concatenation_of_array.java) , Pattern: Direct Index Mapping    
-2. Build Array from Permutation - [Problem Link](https://leetcode.com/problems/build-array-from-permutation/) , [Solution](01-arrays/02_build_array_from_permutation.java) , Pattern: Direct Index Mapping    
-3. Richest Customer Wealth - [Problem Link](https://leetcode.com/problems/richest-customer-wealth/) , [Solution](01-arrays/04_richest_customer_wealth.java) , Pattern: Matrix Traversal
-4. Shuffle the Array - [Problem Link](https://leetcode.com/problems/shuffle-the-array/) , [Solution](01-arrays/05_shuffle_the_array.java) , Pattern: Direct Index Mapping  
-5. Find Numbers with Even Number of Digits - [Problem Link](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) , [Solution](01-arrays/09_find_numbers_with_even_number_of_digits.java) , Pattern: Digit Counting
-6. Move Zeroes - [Problem Link](https://leetcode.com/problems/move-zeroes/) , [Solution](01-arrays/11_move_zeroes.java) , Pattern: Two Pointer
-7. Flipping an Image - [Problem Link](https://leetcode.com/problems/flipping-an-image/) , [Solution](01-arrays/13_flipping_an_image.java) , Pattern: Two Pointer + Bit Manipulation
-8. Best Time to Buy and Sell Stock - [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) , [Java Solution](01-arrays/16_best_time_to_buy_sell_stock.java) , Pattern: Greedy (Running Minimum)
-9. Majority Element - [Problem Link](https://leetcode.com/problems/majority-element/) , [Solution](01-arrays/17_majority_element.java) , Pattern: Frequency Counting
-10. Running sum of 1D array - [Problem Link](https://leetcode.com/problems/running-sum-of-1d-array/) , [Solution](01-arrays/18_running_sum_of_1d_array.java) , Pattern: Traverse the array
+1. Two sum - [Problem Link](https://leetcode.com/problems/two-sum/) , [Solution](01-arrays/01_two_sum.java) , Pattern: HashTable 
+2. Concatenation of Array - [Problem Link](https://leetcode.com/problems/concatenation-of-array/) , [Solution](01-arrays/01_concatenation_of_array.java) , Pattern: Direct Index Mapping    
+3. Build Array from Permutation - [Problem Link](https://leetcode.com/problems/build-array-from-permutation/) , [Solution](01-arrays/02_build_array_from_permutation.java) , Pattern: Direct Index Mapping    
+4. Richest Customer Wealth - [Problem Link](https://leetcode.com/problems/richest-customer-wealth/) , [Solution](01-arrays/04_richest_customer_wealth.java) , Pattern: Matrix Traversal
+5. Shuffle the Array - [Problem Link](https://leetcode.com/problems/shuffle-the-array/) , [Solution](01-arrays/05_shuffle_the_array.java) , Pattern: Direct Index Mapping  
+6. Find Numbers with Even Number of Digits - [Problem Link](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) , [Solution](01-arrays/09_find_numbers_with_even_number_of_digits.java) , Pattern: Digit Counting
+7. Move Zeroes - [Problem Link](https://leetcode.com/problems/move-zeroes/) , [Solution](01-arrays/11_move_zeroes.java) , Pattern: Two Pointer
+8. Flipping an Image - [Problem Link](https://leetcode.com/problems/flipping-an-image/) , [Solution](01-arrays/13_flipping_an_image.java) , Pattern: Two Pointer + Bit Manipulation
+9. Best Time to Buy and Sell Stock - [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) , [Java Solution](01-arrays/16_best_time_to_buy_sell_stock.java) , Pattern: Greedy (Running Minimum)
+10. Majority Element - [Problem Link](https://leetcode.com/problems/majority-element/) , [Solution](01-arrays/17_majority_element.java) , Pattern: Frequency Counting
+11. Running sum of 1D array - [Problem Link](https://leetcode.com/problems/running-sum-of-1d-array/) , [Solution](01-arrays/18_running_sum_of_1d_array.java) , Pattern: Traverse the array  
    
 ### Medium
 1. Two Sum II - Input Array Is Sorted - [Problem Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) , [Solution](01-arrays/03_two_sum_ii.java) , Pattern: Two Pointer
@@ -139,7 +140,7 @@ All solutions are written in Java
    
 ---------------------
  *** STATS ***
-- Total Problems Solved: 61        
-- Easy: 38  
+- Total Problems Solved: 62        
+- Easy: 39  
 - Medium: 21   
 - Hard: 2 
