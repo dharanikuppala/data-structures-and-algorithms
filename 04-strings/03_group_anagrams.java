@@ -1,11 +1,10 @@
 /*
 Problem: 49. Group Anagrams
 Platform: LeetCode
-Link: https://leetcode.com/problems/group-anagrams/
 Difficulty: Medium
-Pattern: Hash Table / Character Frequency
+Pattern: Hash Table / Sorting
 
-Time Complexity: O(n * k)
+Time Complexity: O(n * k log k)
 Space Complexity: O(n)
 */
 
@@ -17,18 +16,28 @@ class Solution {
 
         HashMap<String, List<String>> map = new HashMap<>();
 
-        for(String s : strs) {
+        if(strs == null || strs.length == 0){
+            return new ArrayList<>();
+        }
 
-            int[] freq = new int[26];
+        for(String element : strs){
 
-            for(char c : s.toCharArray()) {
-                freq[c - 'a']++;
+            // Convert string to character array
+            char[] schar = element.toCharArray();
+
+            // Sort characters
+            Arrays.sort(schar);
+
+            // Create key from sorted characters
+            String current = new String(schar);
+
+            // If key not present, create new list
+            if(!map.containsKey(current)){
+                map.put(current, new ArrayList<>());
             }
 
-            String key = Arrays.toString(freq);
-
-            map.putIfAbsent(key, new ArrayList<>());
-            map.get(key).add(s);
+            // Add original word to the list
+            map.get(current).add(element);
         }
 
         return new ArrayList<>(map.values());
