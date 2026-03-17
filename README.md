@@ -6,7 +6,7 @@ All solutions are written in Java
 ## Arrays
 ### Easy
 1. Two sum - [Problem Link](https://leetcode.com/problems/two-sum/) , [Solution](01-arrays/01_two_sum.java) , Pattern: HashTable 
-2. Concatenation of Array - [Problem Link](https://leetcode.com/problems/concatenation-of-array/) , [Solution](01-arrays/01_concatenation_of_array.java) , Pattern: Direct Index Mapping    
+2. Concatenation of Array - [Problem Link](https://leetcode.com/problems/concatenation-of-array/) , [Solution](01-arrays/02_concatenation_of_array.java) , Pattern: Direct Index Mapping    
 3. Build Array from Permutation - [Problem Link](https://leetcode.com/problems/build-array-from-permutation/) , [Solution](01-arrays/02_build_array_from_permutation.java) , Pattern: Direct Index Mapping    
 4. Richest Customer Wealth - [Problem Link](https://leetcode.com/problems/richest-customer-wealth/) , [Solution](01-arrays/04_richest_customer_wealth.java) , Pattern: Matrix Traversal
 5. Shuffle the Array - [Problem Link](https://leetcode.com/problems/shuffle-the-array/) , [Solution](01-arrays/05_shuffle_the_array.java) , Pattern: Direct Index Mapping  
