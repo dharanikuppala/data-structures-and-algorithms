@@ -59,6 +59,7 @@ All solutions are written in Java
 
 ### Medium  
 1. Group Anagrams - [Problem Link](https://leetcode.com/problems/group-anagrams/) , [Solution](04-strings/03_group_anagrams.java) , Pattern: Hash Table / Character Frequency
+2. Longest Substring Without Repeating Characters - [Problem Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) , [Solution](04-strings/3_longest_substring_without_repeating_characters.java) , Pattern: Sliding Window / Two Pointers
 
 ### Hard
 
