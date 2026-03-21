@@ -19,12 +19,12 @@ All solutions are written in Java
    
 ### Medium
 1. Two Sum II - Input Array Is Sorted - [Problem Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) , [Solution](01-arrays/04_two_sum_ii.java) , Pattern: Two Pointer
-2. Find the Duplicate Number - [Problem Link](https://leetcode.com/problems/find-the-duplicate-number/) , [Solution](01-arrays/06_find_duplicate.java) , Pattern: Floyd's Cycle Detection
-3. Find All Duplicates in an Array - [Problem Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/) , [Solution](01-arrays/07_find_all_duplicates.java) , Pattern: Cyclic Sort
-4. Search a 2D Matrix II - [Problem Link](https://leetcode.com/problems/search-a-2d-matrix-ii/) , [Solution](01-arrays/10_search_2d_matrix_ii.java) , Pattern: Staircase Search
-5. Search a 2D Matrix - [Problem Link](https://leetcode.com/problems/search-a-2d-matrix/) , [Solution](01-arrays/12_search_matrix_binary.java) , Pattern: Binary Search
-6. Count Primes - [Problem Link](https://leetcode.com/problems/count-primes/) , [Solution](01-arrays/14_count_primes.java) , Pattern: Sieve of Eratosthenes
-7. Maximum Subarray - [Problem Link](https://leetcode.com/problems/maximum-subarray/) , [Solution](01-arrays/15_maximum_subarray.java) , Pattern: Kadane’s Algorithm     
+2. Find the Duplicate Number - [Problem Link](https://leetcode.com/problems/find-the-duplicate-number/) , [Solution](01-arrays/07_find_duplicate.java) , Pattern: Floyd's Cycle Detection
+3. Find All Duplicates in an Array - [Problem Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/) , [Solution](01-arrays/08_find_all_duplicates.java) , Pattern: Cyclic Sort
+4. Search a 2D Matrix II - [Problem Link](https://leetcode.com/problems/search-a-2d-matrix-ii/) , [Solution](01-arrays/11_search_2d_matrix_ii.java) , Pattern: Staircase Search
+5. Search a 2D Matrix - [Problem Link](https://leetcode.com/problems/search-a-2d-matrix/) , [Solution](01-arrays/13_search_matrix_binary.java) , Pattern: Binary Search
+6. Count Primes - [Problem Link](https://leetcode.com/problems/count-primes/) , [Solution](01-arrays/15_count_primes.java) , Pattern: Sieve of Eratosthenes
+7. Maximum Subarray - [Problem Link](https://leetcode.com/problems/maximum-subarray/) , [Solution](01-arrays/16_maximum_subarray.java) , Pattern: Kadane’s Algorithm     
 
 ### Hard
 1. First Missing Positive - [Problem Link](https://leetcode.com/problems/first-missing-positive/) , [Solution](01-arrays/08_first_missing_positive.java) , Pattern: Cyclic Sort
