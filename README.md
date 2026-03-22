@@ -142,7 +142,7 @@ All solutions are written in Java
    
 ---------------------
  *** STATS ***
-- Total Problems Solved: 63        
+- Total Problems Solved: 64        
 - Easy: 39  
-- Medium: 22   
+- Medium: 23   
 - Hard: 2 
