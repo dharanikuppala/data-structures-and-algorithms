@@ -47,7 +47,8 @@ All solutions are written in Java
 ## Sorting  
 ### Easy  
 1. Missing Number - [Problem Link](https://leetcode.com/problems/missing-number/) , [Solution](02-sorting/01_missing_number.java) , Pattern: Cyclic Sort
-### Medium
+### Medium  
+1. Merge Intervals - [Problem Link](https://leetcode.com/problems/merge-intervals/) , [Solution](04-intervals/56_merge_intervals.java) , Pattern: Sorting / Interval Merging
 ### Hard
 ---
 ## Strings
