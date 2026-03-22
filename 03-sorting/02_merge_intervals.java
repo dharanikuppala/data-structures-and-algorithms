@@ -2,7 +2,7 @@
 Problem: 56. Merge Intervals
 Platform: LeetCode
 Difficulty: Medium
-Pattern: Sorting / Interval Merging
+Pattern: Sorting / Greedy
 
 Time Complexity: O(n log n)
 Space Complexity: O(n)
