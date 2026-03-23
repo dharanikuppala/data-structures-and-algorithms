@@ -90,7 +90,7 @@ All solutions are written in Java
 1. Odd Even Linked List - [Problem Link](https://leetcode.com/problems/odd-even-linked-list/) , [Solution](06-linkedlist/06_odd_even_linked_list.java) , Pattern: Linked List Reordering
 2. Sort List - [Problem Link](https://leetcode.com/problems/sort-list/) , [Solution](06-linkedlist/07_sort_list.java) , Pattern: Merge Sort (Linked List)
 3. Linked List Cycle II - [Problem Link](https://leetcode.com/problems/linked-list-cycle-ii/) , [Solution](06-linkedlist/09_linked_list_cycle_ii.java) , Pattern: Floyd’s Cycle Detection
-4. Swap Nodes in Pairs - [Problem Link](https://leetcode.com/problems/swap-nodes-in-pairs/) , [Solution](06-linkedlist/24_swap_nodes_in_pairs.java) , Pattern: Linked List / Pointer Manipulation
+4. Swap Nodes in Pairs - [Problem Link](https://leetcode.com/problems/swap-nodes-in-pairs/) , [Solution](06-linkedlist/11_swap_nodes_in_pairs.java) , Pattern: Linked List / Pointer Manipulation
 
 ### Hard
 ---
