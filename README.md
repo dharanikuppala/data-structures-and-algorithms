@@ -58,7 +58,7 @@ All solutions are written in Java
 3. Reverse String - [Problem Link](https://leetcode.com/problems/reverse-string/) , [Solution](04-strings/04_reverse_string.java) , Pattern: Two Pointers
 4. First Unique Character in a String - [Problem Link](https://leetcode.com/problems/first-unique-character-in-a-string/) , [Solution](04-strings/05_first_unique_character_in_a_string.java) , Pattern: Frequency Counting
 5. To Lower Case - [Problem Link](https://leetcode.com/problems/to-lower-case/) , [Solution](04-strings/07_to_lower_case.java) , Pattern: String Manipulation / ASCII
-6. Robot Return to Origin - [Problem Link](https://leetcode.com/problems/robot-return-to-origin/) , [Solution](04-strings/657_robot_return_to_origin.java) , Pattern: Simulation / Coordinate Tracking
+6. Robot Return to Origin - [Problem Link](https://leetcode.com/problems/robot-return-to-origin/) , [Solution](04-strings/08_robot_return_to_origin.java) , Pattern: Simulation / Coordinate Tracking
 
 ### Medium  
 1. Group Anagrams - [Problem Link](https://leetcode.com/problems/group-anagrams/) , [Solution](04-strings/03_group_anagrams.java) , Pattern: Hash Table / Character Frequency
