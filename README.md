@@ -144,6 +144,6 @@ All solutions are written in Java
 ---------------------
  *** STATS ***
 - Total Problems Solved: 65        
-- Easy: 39  
+- Easy: 40  
 - Medium: 23   
 - Hard: 2 
