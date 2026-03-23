@@ -147,5 +147,5 @@ All solutions are written in Java
  *** STATS ***
 - Total Problems Solved: 66        
 - Easy: 41  
-- Medium: 23   
+- Medium: 24   
 - Hard: 2 
