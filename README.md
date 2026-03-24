@@ -128,7 +128,7 @@ All solutions are written in Java
 5. Flatten Binary Tree to Linked List - [Problem Link](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) , [Solution](09-trees/13_flatten_binary_tree.java) , Pattern: DFS (Tree Rewiring)
 6. Lowest Common Ancestor of a Binary Tree - [Problem Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) , [Solution](09-trees/14_lowest_common_ancestor.java) , Pattern: DFS (Post-order)
 7. Construct Binary Tree from Preorder and Inorder Traversal - [Problem Link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) , [Solution](09-trees/15_construct_tree_preorder_inorder.java) , Pattern: Divide & Conquer (Tree Construction)
-8. Find Bottom Left Tree Value - [Problem Link](https://leetcode.com/problems/find-bottom-left-tree-value/) , [Solution](09-trees/513_find_bottom_left_tree_value.java) , Pattern: BFS / Level Order Traversal
+8. Find Bottom Left Tree Value - [Problem Link](https://leetcode.com/problems/find-bottom-left-tree-value/) , [Solution](09-trees/17_find_bottom_left_tree_value.java) , Pattern: BFS / Level Order Traversal
 
 ---
 ## Heaps
