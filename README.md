@@ -148,6 +148,6 @@ All solutions are written in Java
 ---------------------
  *** STATS ***
 - Total Problems Solved: 69        
-- Easy: 41  
+- Easy: 42  
 - Medium: 25   
 - Hard: 2 
