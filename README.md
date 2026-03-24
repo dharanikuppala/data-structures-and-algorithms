@@ -148,7 +148,7 @@ All solutions are written in Java
    
 ---------------------
  *** STATS ***
-- Total Problems Solved: 69        
-- Easy: 42  
+- Total Problems Solved: 70        
+- Easy: 43  
 - Medium: 25   
 - Hard: 2 
