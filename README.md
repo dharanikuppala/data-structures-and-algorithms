@@ -119,7 +119,7 @@ All solutions are written in Java
 7. Maximum Depth of Binary Tree - [Problem Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/) , [Solution](09-trees/11_maximum_depth_of_binary_tree.java) , Pattern: DFS (Tree Height Calculation)
 8. Convert Sorted Array to Binary Search Tree - [Problem Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) , [Solution](09-trees/12_convert_sorted_array_to_bst.java) , Pattern: Divide & Conquer (Balanced BST Construction)
 9. Binary Tree Inorder Traversal - [Problem Link](https://leetcode.com/problems/binary-tree-inorder-traversal/) , [Solution](09-trees/16_binary_tree_inorder_traversal.java) , Pattern: DFS / Inorder Traversal
-10. Search in a Binary Search Tree - [Problem Link](https://leetcode.com/problems/search-in-a-binary-search-tree/) , [Solution](09-trees/700_search_in_bst.java) , Pattern: Binary Search Tree / Recursion
+10. Search in a Binary Search Tree - [Problem Link](https://leetcode.com/problems/search-in-a-binary-search-tree/) , [Solution](09-trees/18_search_in_bst.java) , Pattern: Binary Search Tree / Recursion
 
 ### Medium
 1. Binary Tree Level Order Traversal - [Problem Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) , [Solution](09-trees/02_binary_tree_level_order.java) , Pattern: BFS (Level Order Traversal)
