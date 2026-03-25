@@ -92,6 +92,7 @@ All solutions are written in Java
 2. Sort List - [Problem Link](https://leetcode.com/problems/sort-list/) , [Solution](06-linkedlist/07_sort_list.java) , Pattern: Merge Sort (Linked List)
 3. Linked List Cycle II - [Problem Link](https://leetcode.com/problems/linked-list-cycle-ii/) , [Solution](06-linkedlist/09_linked_list_cycle_ii.java) , Pattern: Floyd’s Cycle Detection
 4. Swap Nodes in Pairs - [Problem Link](https://leetcode.com/problems/swap-nodes-in-pairs/) , [Solution](06-linkedlist/11_swap_nodes_in_pairs.java) , Pattern: Linked List / Pointer Manipulation
+5. Remove Nth Node From End of List - [Problem Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) , [Solution](06-linkedlist/19_remove_nth_node_from_end.java) , Pattern: Two Pointers / Fast & Slow
 
 ### Hard
 ---
