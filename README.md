@@ -17,7 +17,7 @@ All solutions are written in Java
 10. Majority Element - [Problem Link](https://leetcode.com/problems/majority-element/) , [Solution](01-arrays/18_majority_element.java) , Pattern: Frequency Counting
 11. Running sum of 1D array - [Problem Link](https://leetcode.com/problems/running-sum-of-1d-array/) , [Solution](01-arrays/19_running_sum_of_1d_array.java) , Pattern: Traverse the array
 12. Max Consecutive Ones - [Problem Link](https://leetcode.com/problems/max-consecutive-ones/) , [Solution](01-arrays/20_max_consecutive_ones.java) , Pattern: Array Traversal / Counting
-13. Lemonade Change - [Problem Link](https://leetcode.com/problems/lemonade-change/) , [Solution](01-arrays/860_lemonade_change.java) , Pattern: Greedy / Simulation
+13. Lemonade Change - [Problem Link](https://leetcode.com/problems/lemonade-change/) , [Solution](01-arrays/21_lemonade_change.java) , Pattern: Greedy / Simulation
    
 ### Medium
 1. Two Sum II - Input Array Is Sorted - [Problem Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) , [Solution](01-arrays/04_two_sum_ii.java) , Pattern: Two Pointer
