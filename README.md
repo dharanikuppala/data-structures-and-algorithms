@@ -150,7 +150,7 @@ All solutions are written in Java
    
 ---------------------
  *** STATS ***
-- Total Problems Solved: 71        
-- Easy: 43  
+- Total Problems Solved: 72        
+- Easy: 44  
 - Medium: 26   
 - Hard: 2 
