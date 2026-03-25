@@ -151,5 +151,5 @@ All solutions are written in Java
  *** STATS ***
 - Total Problems Solved: 71        
 - Easy: 43  
-- Medium: 25   
+- Medium: 26   
 - Hard: 2 
